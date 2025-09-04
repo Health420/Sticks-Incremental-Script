@@ -1,5 +1,7 @@
 # Sticks-Incremental-Script
 Script For Sticks Incremental. Very OP Change the stated value to increase speed don’t go above 100.
+
+
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
 local PickUp = ReplicatedStorage.Events.PickUp
 
