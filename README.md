@@ -1,5 +1,5 @@
 # Sticks-Incremental-Script
-Script For Sticks Incremental. Very OP Change the stated value to increase speed don’t go above 100.
+Script For Sticks Incremental. Very OP Change the stated value to increase speed don’t go above 100. If you are interested in this project just send a pull request or something ive been attempting other parts of the game but not successful so far.
 
 
 local ReplicatedStorage = game:GetService("ReplicatedStorage")
